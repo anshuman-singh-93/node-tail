@@ -3,7 +3,7 @@ Read Last Line of a file in Realtime
 
 # Usage-
 
-    const { Tail } = require('./src/index')
+    const { Tail } = require('tail-me')
 
     const tail = new Tail( { filename : 'your filepath'})
 

@@ -1,6 +1,6 @@
 {
-  "name": "node-tail",
-  "version": "1.0.0",
+  "name": "tail-me",
+  "version": "1.0.2",
   "description": "Read Last Line of a file in Realtime",
   "main": "index.js",
   "scripts": {
