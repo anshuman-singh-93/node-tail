@@ -1,0 +1,20 @@
+{
+  "name": "node-tail",
+  "version": "1.0.0",
+  "description": "Read Last Line of a file in Realtime",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anshuman-singh-93/node-tail.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anshuman-singh-93/node-tail/issues"
+  },
+  "homepage": "https://github.com/anshuman-singh-93/node-tail#readme"
+}
